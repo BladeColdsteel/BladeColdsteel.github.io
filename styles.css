@@ -3,9 +3,16 @@ body {
 }
 
 /* Style the header */
-.header {
+.header img {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background: rgb(156, 156, 156);
+}
+
+.header h1 {
     color:red;
-    text-align: center;
+    position: relative;
     background-color: rgb(156, 156, 156);
     padding: 20px;
     padding-top: 20px;
@@ -20,7 +27,7 @@ body {
   
   /* Style the topnav links */
   .topnav a {
-    float: center;
+    float: right;
     display: block;
     color: #f2f2f2;
     text-align: center;
