@@ -3,7 +3,7 @@ h1 {
     text-align: center;
     background-color: rgb(156, 156, 156);
     padding: 20px;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 body {
@@ -26,7 +26,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 32x 16px;
     text-decoration: none;
   }
 
