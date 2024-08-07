@@ -5,13 +5,12 @@ body {
   /* Style the header */
 .header img {
     float: left;
-    width: 80px;
-    height: 80px;
+    width: 58px;
+    height: 58px;
     background: rgb(156, 156, 156);
 }
 
 .header h1 {
-    color:red;
     position: relative;
     left: 20px;
     padding: 20px;
@@ -28,7 +27,7 @@ body {
   
   /* Style the topnav links */
 .topnav a {
-    float: right;
+    float: left;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -43,6 +42,7 @@ body {
   }
 
 .wrapped-paragraph {
-    max-width: 400px; 
+    text-align: center;
+    max-width: 200px; 
     word-wrap: break-word; /* Optional: Ensures long words are wrapped */
   }
