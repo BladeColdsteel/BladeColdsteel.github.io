@@ -16,6 +16,11 @@ body {
     padding: 20px;
     padding-top: 20px;
     background-color: rgb(156, 156, 156);
+    color: crimson;
+}
+
+.header h1 a {
+    color: gray;
 }
 
 
@@ -43,6 +48,6 @@ body {
 
 .wrapped-paragraph {
     text-align: center;
-    max-width: 200px; 
+    max-width: 400px; 
     word-wrap: break-word; /* Optional: Ensures long words are wrapped */
   }
