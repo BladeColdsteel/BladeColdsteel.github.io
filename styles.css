@@ -66,6 +66,8 @@ nav ul li a:hover {
     width: 100%;
     max-width: 800px;
     margin: 20px auto;
+    border: 5px solid #000;
+    padding: 10px;
 }
 
 .carousel-image {
