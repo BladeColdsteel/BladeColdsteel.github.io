@@ -4,4 +4,4 @@ Royal Rangers is an activity-based, small-group church ministry for boys and you
 
 This repository is a test using ChatGPT to create the website to have something to work off of and base elements around. 
 
-It is not intended to be used solely as the websites base model.
+It is not intended to be used solely as the websites base model. But it is the current Model to be able to get the website useable for an event.
