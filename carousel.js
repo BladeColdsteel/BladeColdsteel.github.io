@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Automatic slideshow
-    setInterval(nextImage, 3000); // Change image every 3 seconds
+    setInterval(nextImage, 5000); // Change image every 3 seconds
 
     // Optional: Add event listeners for manual controls if desired
-    // document.getElementById('next-button').addEventListener('click', nextImage);
-    // document.getElementById('prev-button').addEventListener('click', prevImage);
+    document.getElementById('next-button').addEventListener('click', nextImage);
+    document.getElementById('prev-button').addEventListener('click', prevImage);
 
     // Initially show the first image
     showImage(currentImageIndex);
