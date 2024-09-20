@@ -98,3 +98,12 @@ ul.no-bullets {
 ul.no-bullets li {
     margin-bottom: 10px; /* Adjust spacing as needed */
 }
+
+.text-box {
+    border: 2px solid #000; 
+    padding: 15px;          
+    max-width: 600px;        
+    word-wrap: break-word;   
+    margin: 20px auto;       
+    background-color: #f9f9f9; 
+}
