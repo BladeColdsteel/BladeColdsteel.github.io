@@ -1,5 +1,6 @@
 const adventureCampYear = "2027"
 document.getElementById("adventure-camp-year").textContent = adventureCampYear;
+document.getElementById("adventure-camp-year-body").textContent = adventureCampYear;
 const juniorLeadershipCampYear = "2027"
 document.getElementById("junior-leadership-camp-year").textContent = juniorLeadershipCampYear;
 const winterLeadershipCampYear = "2027"
